@@ -1,0 +1,5 @@
+aiofiles==23.1.0
+numpy==1.26.0
+pygrib==2.1.4
+aiohttp==3.8.5
+beautifulsoup4==4.12.2
